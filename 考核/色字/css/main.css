@@ -1,0 +1,61 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+.both{
+    height: 800px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+.one{
+    height:200px;
+    width:200px;
+    border: solid 1px blue;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+.dian1{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    background: red;
+}
+.dian{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    background: red;
+}
+.two{
+    height:200px;
+    width:200px;
+    border: solid 1px blue;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+.three{
+    height:200px;
+    width:200px;
+    border: solid 1px blue;
+}
+.three1{
+    height: 68px;
+    align-items:center;
+    display: flex;
+}
+    .box2{
+        height: 70px;
+        display: flex;
+        justify-content: space-around;
+        
+    }
+.three3{
+    height: 70px;
+    display: flex;
+    justify-content: flex-end;
+}
